@@ -1,0 +1,1 @@
+The following project is based on bank management system which consist of classes and object which takes user input to start / perform a specific function.It maily uses the concept of Object Oriented Programming (OOPs).
